@@ -1,0 +1,10 @@
+/**
+ * Editor color settings panel
+ */
+.ipb-color-settings-panel .components-panel__body-toggle .component-color-indicator {
+	display: inline-block;
+}
+
+.ipb-color-settings-panel.is-opened .components-panel__body-toggle .component-color-indicator {
+	display: none;
+}
